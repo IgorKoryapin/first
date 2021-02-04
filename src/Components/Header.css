@@ -1,0 +1,17 @@
+.header {
+    background-color: rgb(94, 90, 90);
+    background-size: cover;
+    background-position:center;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    display: flex;
+  }
+
+  .header-title {
+    font-size: 100px;
+    color: white;
+    text-transform: uppercase;
+    font-weight: 500;
+    margin: auto;
+  }

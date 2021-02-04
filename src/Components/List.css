@@ -1,0 +1,13 @@
+.List {
+  margin: 20px;
+  padding: 20px; 
+  width: 350px;
+  display: inline-block;
+}
+  
+  .list-text {
+    font-size: 24px;
+    font-weight: 500; 
+    width: 350px;
+  }
+  
